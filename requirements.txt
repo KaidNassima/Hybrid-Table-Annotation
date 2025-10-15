@@ -1,0 +1,8 @@
+pandas==2.2.2
+networkx==3.2.1
+matplotlib==3.9.0
+SPARQLWrapper==2.0.0
+torch==2.3.0
+joblib==1.4.2
+transformers==4.49.0
+notebook

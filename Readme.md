@@ -22,9 +22,7 @@ To reproduce the Column Property Annotation results, you need to download the So
 ```bash
 pip install -r requirements.txt
 
-
-
-# Annotation hybride de tables
+ # Annotation hybride de tables
 
 Ce dépot contient des notebooks Jupyter pour notre approche d'annotation hybride de tables, qui exploite à la fois des modèles de languages (LM) et des bases de connaissances (KB) pour annoter automatiquement les tables avec les types de colonnes et les relations.
 
